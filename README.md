@@ -15,7 +15,7 @@
   <img alt="2.400+ soru" src="https://img.shields.io/badge/2.400%2B%20soru-8957e5?style=flat-square">
 </p>
 
-<p>🧠 kalıcı hafıza (SRS)&nbsp;·&nbsp;💊 ilaç kartları&nbsp;·&nbsp;🩺 TUS simülatörü&nbsp;·&nbsp;her şıkka derin AI analizi</p>
+<p>🧠 Kalıcı Hafıza (SRS)&nbsp;·&nbsp;💊 İlaç Kartları&nbsp;·&nbsp;🩺 TUS Simülatörü&nbsp;·&nbsp;Her şıkka derin AI analizi</p>
 
 <br>
 
