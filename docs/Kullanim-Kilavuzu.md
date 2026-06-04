@@ -1,4 +1,4 @@
-# 📘 TUS Master Pro — Kullanım Kılavuzu
+# 📘 TUSMaster — Kullanım Kılavuzu
 
 TUS hazırlığı için yapay zekâ destekli masaüstü çalışma uygulaması. Bu kılavuz tüm özellikleri adım adım anlatır. Kısa cevaplar için **[SSS](SSS.md)**'ye bakabilirsin.
 

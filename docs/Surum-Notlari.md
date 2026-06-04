@@ -1,8 +1,8 @@
-# 📋 TUS Master Pro — Sürüm Notları
+# 📋 TUSMaster — Sürüm Notları
 
 ## 🎉 İlk Sürüm — Haziran 2026
 
-TUS Master Pro ilk kez yayında! 🩺 TUS hazırlığı için yapay zekâ destekli bir masaüstü çalışma uygulaması. Bu ilk sürümle gelen her şey aşağıda.
+TUSMaster ilk kez yayında! 🩺 TUS hazırlığı için yapay zekâ destekli bir masaüstü çalışma uygulaması. Bu ilk sürümle gelen her şey aşağıda.
 
 ---
 

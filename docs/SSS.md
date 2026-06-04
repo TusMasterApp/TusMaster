@@ -1,4 +1,4 @@
-# ❓ TUS Master Pro — Sıkça Sorulan Sorular (SSS)
+# ❓ TUSMaster — Sıkça Sorulan Sorular (SSS)
 
 Kısa ve net cevaplar. Daha ayrıntı için **[Kullanım Kılavuzu](Kullanim-Kilavuzu.md)**'na bak.
 
