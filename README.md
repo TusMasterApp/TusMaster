@@ -1,67 +1,106 @@
 <div align="center">
 
-<img src="logo.png" alt="TUS Master Pro" width="128">
+<img src="logo.png" alt="TUSMaster" width="120">
 
-# TUSMaster 
+# TUSMaster
 
-**TUS hazırlığı için yapay zekâ destekli masaüstü çalışma uygulaması**
+#### TUS hazırlığı için yapay zekâ destekli masaüstü çalışma uygulaması
 
-2.400'ü aşkın telifsiz çalışma sorusu · 🧠 kalıcı hafıza (SRS) · 💊 ilaç kartları · 🩺 TUS simülatörü · her şıkka derin AI analizi
+<p>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white">
+  <img alt="Ücretsiz" src="https://img.shields.io/badge/%C3%9Ccretsiz-2ea44f?style=flat-square">
+  <img alt="Kredi kartı gerekmez" src="https://img.shields.io/badge/Kredi%20kart%C4%B1%20gerekmez-2ea44f?style=flat-square">
+  <img alt="2400+ soru" src="https://img.shields.io/badge/2.400%2B%20soru-8957e5?style=flat-square">
+</p>
+
+<p>
+🧠 kalıcı hafıza (SRS)&nbsp;&nbsp;·&nbsp;&nbsp;💊 ilaç kartları&nbsp;&nbsp;·&nbsp;&nbsp;🩺 TUS simülatörü&nbsp;&nbsp;·&nbsp;&nbsp;her şıkka derin AI analizi
+</p>
+
+<br>
+
+[![Windows için indir](https://img.shields.io/badge/Windows%20i%C3%A7in%20indir-.zip-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TusMasterApp/TusMaster/releases/latest/download/TusMaster-Windows.zip)
+&nbsp;&nbsp;
+[![macOS için indir](https://img.shields.io/badge/macOS%20i%C3%A7in%20indir-.dmg-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/TusMasterApp/TusMaster/releases/latest/download/TusMaster.dmg)
+
+<sub>↑ Bu butonlar <b>her zaman en son sürümü</b> indirir&nbsp;·&nbsp;<a href="https://github.com/TusMasterApp/TusMaster/releases/latest">tüm sürümler</a></sub>
 
 </div>
 
 ---
 
-## 📥 İndir
+## ⚡ Hızlı Başlangıç
 
-| Platform | İndir |
-|---|---|
-| 🪟 **Windows** | **[⬇️ TusMaster-Windows.zip](https://github.com/TusMasterApp/TusMaster/releases/latest/download/TusMaster-Windows.zip)** |
-| 🍎 **macOS** | **[⬇️ TusMaster.dmg](https://github.com/TusMasterApp/TusMaster/releases/latest/download/TusMaster.dmg)** |
+<table>
+<tr>
+<td align="center" width="90">🪟<br><b>Windows</b></td>
+<td>
 
-> Bu linkler **her zaman en son sürümü** verir. Tüm sürümler: **[Releases sayfası](https://github.com/TusMasterApp/TusMaster/releases/latest)**
+ZIP'i bir klasöre çıkar (sağ tık → *Tümünü ayıkla*) → **`TusMaster.exe`**'ye çift tıkla.
+<sub>`_internal` klasörünü yanında tut. *"Windows bilgisayarınızı korudu"* (SmartScreen) çıkarsa → **Ek bilgi → Yine de çalıştır** (yalnızca ilk seferde).</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">🍎<br><b>macOS</b></td>
+<td>
+
+`.dmg`'ye çift tıkla → **TusMaster**'ı **Applications**'a sürükle.
+<sub>İlk açışta Applications'ta sağ tık → **Aç → Aç** (yalnızca ilk seferde — Apple noter onayı uyarısı normaldir).</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">🔑<br><b>Anahtar</b></td>
+<td>
+
+Ücretsiz [Google Gemini anahtarı](https://aistudio.google.com/apikey) al → karşılama ekranına yapıştır → başla.
+<sub>🚫💳 **Kredi kartı GEREKMEZ.** Kart/ödeme isteyen bir sayfa çıkarsa doldurma, kapat — sadece `AIza…` anahtarı yeterli.</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Hızlı Başlangıç
+## ✨ Özellikler
 
-**🪟 Windows:** ZIP'i bir klasöre çıkar (sağ tık → *"Tümünü ayıkla"*) → **`TusMaster.exe`**'ye çift tıkla.
-> `TusMaster.exe` ile yanındaki **`_internal`** klasörünü aynı yerde tut. *"Windows bilgisayarınızı korudu"* (SmartScreen) çıkarsa → **Ek bilgi → Yine de çalıştır** (yalnızca ilk seferde).
-
-**🍎 Mac:** `.dmg`'ye çift tıkla → **TusMaster**'ı **Applications**'a sürükle. İlk açışta Applications'ta TusMaster'a **sağ tık → Aç → Aç** (yalnızca ilk seferde).
-
-**🔑 İlk açılışta:** Ücretsiz [Google Gemini anahtarı](https://aistudio.google.com/apikey) al → karşılama ekranına yapıştır → başla.
-> 🚫💳 **Kredi kartı GEREKMEZ.** Gemini ücretsizdir; anahtar alırken kart/ödeme isteyen bir sayfa çıkarsa **doldurma, kapat.** Sadece `AIza...` ile başlayan anahtarı kopyala.
+|  |  |
+|--|--|
+| 🧠 **Kalıcı Hafıza (SRS)** | Her sorudan sonra *"ne kadar iyi hatırladın?"* — uygulama soruyu tam unutmaya yakın, bilim destekli aralıklarla tekrar karşına getirir. |
+| 📚 **2.400+ telifsiz soru** | TUS tarzı yapay-zekâ varyantları; şık işaretleyince her şıkkın ayrıntılı analizi. |
+| 🩺 **TUS Simülatörü** | Gerçek formatta, kronometreli tam deneme (Temel + Klinik Bilimler). |
+| 📈 **Performans & Zayıf Analiz** | Nerede zayıf olduğunu net gör; tek tıkla zayıf konulara odaklı tekrar seti. |
+| 💊 **İlaç Kartları** | Endikasyon · kontrendikasyon · yan etki + tek tıkla derin AI monografı. |
+| 🆕 **Yeni Nesil & Vaka** | İstediğin konuda taze AI soruları + adım adım ilerleyen klinik vaka simülatörü. |
+| 📂 **Kendi denemeni ekle** | Deneme PDF'ini bir klasöre at → uygulama otomatik tarayıp soruları çıkarır. |
+| 🔒 **Tam gizlilik** | Tüm verin yalnızca kendi bilgisayarında kalır; otomatik günlük yedek. |
 
 ---
 
 ## 📚 Dökümanlar
 
-| | |
-|---|---|
+| Belge | İçerik |
+|--|--|
 | 📘 **[Kullanım Kılavuzu](docs/Kullanim-Kilavuzu.md)** | Tüm özellikler, adım adım anlatım |
 | ❓ **[Sıkça Sorulan Sorular (SSS)](docs/SSS.md)** | Kısa ve net cevaplar |
 | 📋 **[Sürüm Notları](docs/Surum-Notlari.md)** | Bu sürümle gelen her şey |
 
 ---
 
-## ✨ Öne çıkan özellikler
+## ⚠️ Tıbbi Sorumluluk
 
-- 🧠 **Kalıcı Hafıza (SRS)** — her sorudan sonra *"ne kadar iyi hatırladın?"* dersin; uygulama o soruyu tam unutmaya yakın, bilim destekli aralıklarla tekrar karşına getirir.
-- 📚 **2.400+ telifsiz çalışma sorusu** (TUS tarzı AI varyantları) — her şıkkın ayrıntılı AI analizi.
-- 🩺 **TUS Simülatörü** — gerçek formatta, kronometreli tam deneme (Temel + Klinik).
-- 📈 **Performans / Zayıf Analiz / Sınav Karnem** — nerede zayıfsın, gör.
-- 💊 **İlaç Kartları** — endikasyon, kontrendikasyon + tek tıkla derin AI monograf.
-- 🆕 **Yeni Nesil Sorular** + **Vaka Simülatörü** + **İlgili Makaleler**.
-- 📄 **Kendi denemeni ekle** — PDF yükle, uygulama tarayıp soruları çıkarır.
-- 🔒 **Gizlilik** — tüm verin yalnız kendi bilgisayarında kalır; otomatik günlük yedek.
+> **TUSMaster bir çalışma/öğrenme aracıdır.** Yapay zekâ ara sıra hatalı veya eksik bilgi üretebilir; tüm bilgileri güncel ve güvenilir tıbbi kaynaklarla doğrula. Buradaki hiçbir içerik tıbbi tanı, tedavi veya hasta bakımı tavsiyesi değildir.
 
 ---
 
-## ⚠️ Tıbbi Sorumluluk
+<div align="center">
 
-TUS Master Pro bir **çalışma/öğrenme aracıdır.** Yapay zekâ ara sıra hatalı veya eksik bilgi üretebilir; tüm bilgileri güncel ve güvenilir tıbbi kaynaklarla doğrula. Buradaki hiçbir içerik tıbbi tanı, tedavi veya hasta bakımı tavsiyesi değildir.
+**💌 Soru · öneri · geri bildirim**
 
-## 💌 İletişim & Geri Bildirim
+Uygulama içindeki **🐞 Sorun Bildir** düğmesi&nbsp;·&nbsp;✉️ myny061955@gmail.com
 
-Uygulama içindeki **🐞 Sorun Bildir** düğmesi · ✉️ myny061955@gmail.com
+<sub>TUS adaylarına başarılar dileriz 🎯</sub>
+
+</div>
