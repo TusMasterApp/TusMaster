@@ -2,7 +2,7 @@
 
 <img src="logo.png" alt="TUS Master Pro" width="128">
 
-# TUS Master Pro
+# TUS Master 
 
 **TUS hazırlığı için yapay zekâ destekli masaüstü çalışma uygulaması**
 
