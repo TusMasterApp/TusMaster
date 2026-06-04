@@ -4,7 +4,7 @@
 
 # TUSMaster
 
-<sub>developed by</sub>&nbsp;<a href="https://www.instagram.com/conatusvera/"><img alt="Instagram: @conatusvera" src="https://img.shields.io/badge/%40conatusvera-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/conatusvera/"><img alt="developed by @conatusvera (Instagram)" src="https://img.shields.io/badge/developed%20by-%40conatusvera-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 
 #### TUS hazırlığı için yapay zekâ destekli masaüstü çalışma uygulaması
 
