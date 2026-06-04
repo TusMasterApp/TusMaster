@@ -4,25 +4,24 @@
 
 # TUSMaster
 
+<sub>developed by <b>conatusvera</b></sub>
+
 #### TUS hazırlığı için yapay zekâ destekli masaüstü çalışma uygulaması
 
 <p>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4OCA4OCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTAgMTIuNCAzNS44IDcuNXYzMy4zSDB6TTQwLjEgNi45IDg4IDB2NDAuNUg0MC4xek0wIDQ3LjZoMzUuOHYzMy4zTDAgNzZ6TTQwLjEgNDcuNkg4OFY4OGwtNDcuOS02Ljd6Ii8%2BPC9zdmc%2B&logoColor=white">
   <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white">
   <img alt="Ücretsiz" src="https://img.shields.io/badge/%C3%9Ccretsiz-2ea44f?style=flat-square">
-  <img alt="Kredi kartı gerekmez" src="https://img.shields.io/badge/Kredi%20kart%C4%B1%20gerekmez-2ea44f?style=flat-square">
-  <img alt="2400+ soru" src="https://img.shields.io/badge/2.400%2B%20soru-8957e5?style=flat-square">
+  <img alt="2.400+ soru" src="https://img.shields.io/badge/2.400%2B%20soru-8957e5?style=flat-square">
 </p>
 
-<p>
-🧠 kalıcı hafıza (SRS)&nbsp;&nbsp;·&nbsp;&nbsp;💊 ilaç kartları&nbsp;&nbsp;·&nbsp;&nbsp;🩺 TUS simülatörü&nbsp;&nbsp;·&nbsp;&nbsp;her şıkka derin AI analizi
-</p>
+<p>🧠 kalıcı hafıza (SRS)&nbsp;·&nbsp;💊 ilaç kartları&nbsp;·&nbsp;🩺 TUS simülatörü&nbsp;·&nbsp;her şıkka derin AI analizi</p>
 
 <br>
 
-[![Windows için indir](https://img.shields.io/badge/Windows%20i%C3%A7in%20indir-.zip-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TusMasterApp/TusMaster/releases/latest/download/TusMaster-Windows.zip)
+[![Windows için indir](https://img.shields.io/badge/Windows%20i%C3%A7in%20indir-.zip-0078D6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4OCA4OCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTAgMTIuNCAzNS44IDcuNXYzMy4zSDB6TTQwLjEgNi45IDg4IDB2NDAuNUg0MC4xek0wIDQ3LjZoMzUuOHYzMy4zTDAgNzZ6TTQwLjEgNDcuNkg4OFY4OGwtNDcuOS02Ljd6Ii8%2BPC9zdmc%2B&logoColor=white)](https://github.com/TusMasterApp/TusMaster/releases/latest/download/TusMaster-Windows.zip)
 &nbsp;&nbsp;
-[![macOS için indir](https://img.shields.io/badge/macOS%20i%C3%A7in%20indir-.dmg-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/TusMasterApp/TusMaster/releases/latest/download/TusMaster.dmg)
+[![macOS için indir](https://img.shields.io/badge/macOS%20i%C3%A7in%20indir-.dmg-000000?style=flat-square&logo=apple&logoColor=white)](https://github.com/TusMasterApp/TusMaster/releases/latest/download/TusMaster.dmg)
 
 <sub>↑ Bu butonlar <b>her zaman en son sürümü</b> indirir&nbsp;·&nbsp;<a href="https://github.com/TusMasterApp/TusMaster/releases/latest">tüm sürümler</a></sub>
 
