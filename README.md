@@ -96,7 +96,7 @@ ZIP'i bir klasöre çıkar (sağ tık → *Tümünü ayıkla*) → **`TusMaster.
 
 <div align="center">
 
-**💌 Soru · öneri · geri bildirim**
+**💌 Soru · Öneri · Geri Bildirim**
 
 Uygulama içindeki **🐞 Sorun Bildir** düğmesi&nbsp;·&nbsp;✉️ myny061955@gmail.com
 
