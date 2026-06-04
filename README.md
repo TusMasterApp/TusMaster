@@ -19,9 +19,9 @@
 
 <br>
 
-[![Windows için indir](https://img.shields.io/badge/Windows%20i%C3%A7in%20indir-.zip-0078D6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4OCA4OCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTAgMTIuNCAzNS44IDcuNXYzMy4zSDB6TTQwLjEgNi45IDg4IDB2NDAuNUg0MC4xek0wIDQ3LjZoMzUuOHYzMy4zTDAgNzZ6TTQwLjEgNDcuNkg4OFY4OGwtNDcuOS02Ljd6Ii8%2BPC9zdmc%2B&logoColor=white)](https://github.com/TusMasterApp/TusMaster/releases/latest/download/TusMaster-Windows.zip)
+<a href="https://github.com/TusMasterApp/TusMaster/releases/latest/download/TusMaster-Windows.zip"><img alt="Windows için indir" src="https://img.shields.io/badge/Windows%20i%C3%A7in%20indir-.zip-0078D6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4OCA4OCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTAgMTIuNCAzNS44IDcuNXYzMy4zSDB6TTQwLjEgNi45IDg4IDB2NDAuNUg0MC4xek0wIDQ3LjZoMzUuOHYzMy4zTDAgNzZ6TTQwLjEgNDcuNkg4OFY4OGwtNDcuOS02Ljd6Ii8%2BPC9zdmc%2B&logoColor=white" width="340"></a>
 &nbsp;&nbsp;
-[![macOS için indir](https://img.shields.io/badge/macOS%20i%C3%A7in%20indir-.dmg-000000?style=flat-square&logo=apple&logoColor=white)](https://github.com/TusMasterApp/TusMaster/releases/latest/download/TusMaster.dmg)
+<a href="https://github.com/TusMasterApp/TusMaster/releases/latest/download/TusMaster.dmg"><img alt="macOS için indir" src="https://img.shields.io/badge/macOS%20i%C3%A7in%20indir-.dmg-000000?style=flat-square&logo=apple&logoColor=white" width="340"></a>
 
 <sub>↑ Bu butonlar <b>her zaman en son sürümü</b> indirir&nbsp;·&nbsp;<a href="https://github.com/TusMasterApp/TusMaster/releases/latest">tüm sürümler</a></sub>
 
